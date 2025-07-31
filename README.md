@@ -42,7 +42,7 @@ This is a Next.js application that fetches patient data from an external API, ca
     bun install
     ```
 
-3.  Create a `.env` file in the project root with the following environment variables:
+3.  Create a `.env.local` file in the project root with the following environment variables:
 
     ```env
     NEXT_PUBLIC_EXTERNAL_API_URL=[https://assessment.ksensetech.com/api](https://assessment.ksensetech.com/api)
